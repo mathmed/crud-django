@@ -1,0 +1,7 @@
+Mude seus modelos (em models.py).
+Rode python manage.py makemigrations para criar migrações para suas modificações
+Rode python manage.py migrate para aplicar suas modificações no banco de dados.
+
+Rodar servidor: sudo python3.6 manage.py runserver
+
+python3.6 manage.py createsuperuser -> criar super usuário
